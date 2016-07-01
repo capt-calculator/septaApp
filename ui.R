@@ -46,7 +46,7 @@ pageWithSidebar(
         br(),
         HTML('<font face="Consolas"><p align="center">Created by Troy Walters | 
              <a href=http://www.troywalters.com>troywalters.com</a> | 
-             Code available on <a href=http://github.com/capt-calculator/septaApp</a>
+             Code available on <a href=http://github.com/capt-calculator/septaApp>Github</a>
              </p></font>')
         
     ), 
